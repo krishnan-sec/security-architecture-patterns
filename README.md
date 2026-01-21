@@ -9,6 +9,8 @@ These patterns are written to be:
 - **Technology-agnostic** where possible
 - **Actionable** for product and platform engineering teams
 
+---
+
 ## How to use this repository
 
 Each pattern includes:
@@ -20,6 +22,8 @@ Each pattern includes:
 
 Patterns are designed to be adapted to your environment, not copy-pasted as-is.
 
+---
+
 ## Patterns
 
 - [001 Secure API Boundary](patterns/001-secure-api-boundary.md)
@@ -29,6 +33,8 @@ Patterns are designed to be adapted to your environment, not copy-pasted as-is.
 - [005 CI/CD Guardrails via Policy-as-Code](patterns/005-cicd-guardrails-policy-as-code.md)
 - [006 Tenant Isolation Boundary (SaaS)](patterns/006-tenant-isolation-boundary.md)
 - [007 Secrets & Key Management Boundary](patterns/007-secrets-key-management-boundary.md)
+
+---
 
 ## Notes
 
